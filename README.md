@@ -4,9 +4,7 @@ This repository contains material related to Udacity's [Deep Learning Nanodegree
 
 There are also notebooks used as projects for the Nanodegree program. The starting code is available here, as well as each project solution.
 
-## Table Of Contents
-
-### Tutorials
+## Content
 
 ### Introduction to Neural Networks
 
